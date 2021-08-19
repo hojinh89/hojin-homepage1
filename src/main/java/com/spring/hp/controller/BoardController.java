@@ -46,7 +46,7 @@ public class BoardController {
 	private IUserService u_service;
 	
 	
-	//페이징 처리전 dfasdfhaligjk
+	//페이징 처리전 dfasdfhaligjk dfasdfd sdfasdfasdfdadfdf
 	/*
 	@GetMapping(value="/list")
 	public String list(Model model) throws Exception{
